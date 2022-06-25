@@ -2,7 +2,6 @@
 - 👀 I’m interested in mobile Development
 - 🌱 I’m currently learning fluter 
 - 💞️ I’m looking to collaborate on mobile developers 
-- 📫 How to reach me whatsapp +237674270063
 
 <!---
 MbohBless/MbohBless is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
