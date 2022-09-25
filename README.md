@@ -1,4 +1,4 @@
-<h3 align="center">A passionate Mobile Developerfrom Cameroon Software Engineering Major, Team Lead AWS Cloud Computing Practitioner</h3>
+<h3 align="center">A passionate Mobile Developer from Cameroon, Software Engineering Major, Team Lead, AWS Cloud Computing Practitioner</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MbohBless&label=Profile%20views&color=0e75b6&style=flat" alt="MbohBless" /> </p>
 
