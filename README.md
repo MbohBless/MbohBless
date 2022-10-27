@@ -1,7 +1,5 @@
 <h3 align="center">A passionate Mobile Developer from Cameroon, Software Engineering Major, Team Lead, AWS Cloud Computing Practitioner</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MbohBless&label=Profile%20views&color=0e75b6&style=flat" alt="MbohBless" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MbohBless&row=1&theme=darkhub&margin-w=15&no-bg=true" alt="MbohBless" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/Mboh_Bless" target="blank"><img src="https://img.shields.io/twitter/follow/Mboh_Bless?logo=twitter&style=for-the-badge" alt="MbohBless" /></a> </p>
