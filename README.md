@@ -1,4 +1,4 @@
-<h3 align="center">A passionate Mobile Developer from Cameroon, Software Engineering Major, Team Lead, Certified AWS Cloud Computing Practitioner</h3>
+<h3 align="center">A passionate junior developer from cameroon with few months experience in mobile development with flutter, with skills in the cloud, front and backend development with React js and Express js  </h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MbohBless&row=1&theme=darkhub&margin-w=15&no-bg=true" alt="MbohBless" /></a> </p>
 
