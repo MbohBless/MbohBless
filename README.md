@@ -2,9 +2,8 @@
 
 
 
-# Hi there I'm Mboh Bless I like to collaborate on new project ideas🖐
-<img align="left" width="47%" src ="https://github-readme-stats.vercel.app/api?username=MbohBless&show_icons=true&theme=synthwave"/>
-<img align = "left" width="47%" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=MbohBless&layout=compact"/>
+# Hi there I'm Mboh Bless I like to collaborate on new research related to Ai, Data science, and Machine learning.
+
 
 <br/>
 
