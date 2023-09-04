@@ -1,8 +1,8 @@
-<h4 align="center">Masters in Engineering of artificial intelligence student at Carnegie Mellon University open to working on research partaining to AI, Data science </h4>
+<h3 align="center">Masters in Engineering of artificial intelligence student at Carnegie Mellon University open to working on research partaining to AI, Data science </h3>
 
 
 
-# Hi there I'm Mboh Bless I like to collaborate on new research related to Ai, Data science, and Machine learning.
+<h3 align = "center"> Hi there I'm Mboh Bless I like to collaborate on new research related to Ai, Data science, and Machine learning.</h3> 
 
 
 <br/>
